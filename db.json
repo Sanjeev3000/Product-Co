@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "quantity": 1,
+      "price": 1,
+      "colour": "white",
+      "imgSrc": "laptop.jpg"
+    },
+    {
+      "id": 2,
+      "name": "PC",
+      "quantity": 1,
+      "price": 1,
+      "colour": "white",
+      "imgSrc": "pc.jpg"
+    },
+    {
+      "name": "Apple",
+      "quantity": "1",
+      "price": "2.00",
+      "colour": "Red",
+      "imgSrc": "x.jpg",
+      "id": 6
+    }
+  ]
+}
